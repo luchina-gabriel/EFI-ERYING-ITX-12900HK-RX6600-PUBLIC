@@ -1,5 +1,7 @@
 # Perfect ITX Hackintosh - KIT ERYING ITX Intel Core i9 12900HK + RX 6600M
 
+![Overview](https://github.com/luchina-gabriel/EFI-ERYING-ITX-12900HK-RX6600-PUBLIC/assets/23700365/de00ad8a-0aa5-4524-8cc3-9e8077f74838)
+
 # Basic Information
 
 **Latest working macOS**: macOS Ventura (13.5)
