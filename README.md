@@ -39,7 +39,7 @@
 - [Gabriel Luchina - Universo Hackintosh](https://luchina.com.br)
 
 ## How to get a copy of EFI
-- Become a HACKINTOSH VIP member on the Hackintosh Universe channel
+- Become a HACKINTOSH VIP member on the "Universo Hackintosh" channel
 
 ## Discord - Universo Hackintosh
 - [Access Discord](https://discord.universohackintosh.com.br)
