@@ -6,9 +6,9 @@
 
 **Latest working macOS**: macOS Ventura (13.5)
 <br>
-**Current OpenCore**: 0.9.3
+**Current OpenCore**: 0.9.4
 <br>
-**Release date**: 26/07/2023
+**Release date**: 31/08/2023
 
 # Hackintosh Specifications
 |Item|Description|
