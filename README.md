@@ -4,11 +4,11 @@
 
 # Basic Information
 
-**Latest working macOS**: macOS Ventura (13.5)
+**Latest working macOS**: macOS Sonoma (14.1)
 <br>
-**Current OpenCore**: 0.9.4
+**Current OpenCore**: 0.9.5
 <br>
-**Release date**: 31/08/2023
+**Release date**: 26/10/2023
 
 # Hackintosh Specifications
 |Item|Description|
